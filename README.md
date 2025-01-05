@@ -1,8 +1,8 @@
 # 
 
-### Speech text System Using RNN  
+### Speech text Using RNN  
 
-A **Speech text System** built using Recurrent Neural Networks (RNNs) is a deep learning solution designed to process sequential data, such as audio signals, by capturing time-based dependencies. The model is trained on a comprehensive dataset of speech samples paired with their transcriptions, enabling it to map audio inputs to corresponding text outputs.  
+A **Speech text** built using Recurrent Neural Networks (RNNs) is a deep learning solution designed to process sequential data, such as audio signals, by capturing time-based dependencies. The model is trained on a comprehensive dataset of speech samples paired with their transcriptions, enabling it to map audio inputs to corresponding text outputs.  
 
 The RNN architecture processes audio signals sequentially, leveraging temporal patterns within the data. It comprises multiple layers of recurrent cells, each receiving an input vector and a hidden state from the prior time step. At each time step, the hidden state is updated based on the current input and the previous state, allowing the model to learn intricate time-dependent relationships.  
 
